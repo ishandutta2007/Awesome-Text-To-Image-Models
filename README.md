@@ -83,3 +83,14 @@ Deploying image generation models at scale requires balancing heavy sampling loo
 | [**E-Commerce Asset & Creative Marketing Generation**](details/ecommerce_asset_generation.md) | **Application:** Replaces traditional physical product photography studios. Marketing pipelines use text-to-image foundation engines paired with product adapters to instantly place consumer goods into hyper-realistic, variable background scenes for global ad campaigns. | 2023 | [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) |
 | [**Entertainment Concept Art & Storyboarding Pre-Visualization**](details/entertainment_concept_art.md) | **Application:** Game design and film production studios deploy Diffusion Transformers to quickly draft multi-angle environmental layouts, character sheets, and scene storyboards from text scripts, shaving weeks off the pre-production timeline. | 2019 | [StoryGAN: A Sequential Conditional GAN for Story Visualization](https://arxiv.org/abs/1812.02784) |
 | [**Synthetic Data Augmentation for Industrial Vision Systems**](details/synthetic_data_augmentation.md) | **Application:** Trains safety arrays (like autonomous driving stacks or manufacturing defect scanners). When real-world data is critically scarce, T2I networks generate thousands of realistic edge-case variants—such as "a car navigating a flooded street at midnight during heavy glare"—to robustly train computer vision classifiers safely. | 2023 | [Effective Data Augmentation With Diffusion Models](https://arxiv.org/abs/2302.07944) |
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Text-To-Image-Models&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-To-Image-Models&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-To-Image-Models&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-To-Image-Models&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
