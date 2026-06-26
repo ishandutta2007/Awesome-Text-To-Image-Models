@@ -1,11 +1,27 @@
-# Awesome-Text-To-Image-Models
-## Text-to-Image Models: Evolution, Variants, Types, & Applications
+<!--
+SEO Meta Tags:
+- Title: Awesome Text-To-Image Models - Evolution, Architectures & Applications
+- Description: A curated list of text-to-image (T2I) generative models, covering GANs, Latent Diffusion Models (LDM), Diffusion Transformers (DiT), Flow Matching, text conditioning, production challenges, and enterprise use-cases.
+- Keywords: Text-to-Image, T2I, Generative AI, Diffusion Models, Latent Diffusion, Stable Diffusion, Diffusion Transformers, DiT, Flow Matching, GANs, CLIP, T5-XXL, ControlNet, DreamBooth
+-->
+
+# 🚀 Awesome Text-To-Image Models
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Text-To-Image Models Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 📈 Text-to-Image Models: Evolution, Variants, Types, & Applications
 
 Text-to-Image (T2I) generative models represent one of the most visible breakthroughs in artificial intelligence, converting open-ended natural language prompts into high-fidelity, compositionally accurate images. By mapping textual descriptions into visual feature matrices, these systems have evolved from generating blurry, low-resolution pixel grids to synthesising hyper-realistic, high-resolution masterpieces. The architecture has shifted structurally over time—transitioning from adversarial competition to text-aligned diffusion pathways and scalable transformer networks.
 
 ---
 
-## 1. The Chronological Evolution
+## 🕒 1. The Chronological Evolution
 
 The technical progression of Text-to-Image models reflects a steady trajectory away from localized, unstable pixel architectures toward stable data density mappings and multi-scale visual token spaces.
 
@@ -25,7 +41,7 @@ flowchart LR
 
 ---
 
-## 2. Core Generative & Architectural Variants
+## 🧠 2. Core Generative & Architectural Variants
 
 Text-to-Image architectures are strictly categorized based on the underlying mathematical frameworks they deploy to map text to pixel fields.
 
@@ -37,7 +53,7 @@ Text-to-Image architectures are strictly categorized based on the underlying mat
 
 ---
 
-## 3. Text Ingestion & Conditioning Conditioning Types
+## 🔤 3. Text Ingestion & Conditioning Types
 
 How the text prompt is understood and fed to the visual generation engine heavily dictates the final model's prompt adherence and text-rendering accuracy.
 
@@ -49,7 +65,7 @@ How the text prompt is understood and fed to the visual generation engine heavil
 
 ---
 
-## 4. Production Engineering Challenges & Adaptations
+## 🛠️ 4. Production Engineering Challenges & Adaptations
 
 Deploying image generation models at scale requires balancing heavy sampling loops, real-time control constraints, and model training budgets.
 
@@ -60,7 +76,7 @@ Deploying image generation models at scale requires balancing heavy sampling loo
 
 ---
 
-## 5. Modern Commercial & Enterprise Applications
+## 💼 5. Modern Commercial & Enterprise Applications
 
 | Application | Description & Details | Year First Used | First Paper / Foundation |
 | :--- | :--- | :--- | :--- |
